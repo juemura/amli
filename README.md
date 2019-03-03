@@ -18,12 +18,6 @@ This repo has the Udacity projects for their ML nanodegree.
 
 ## Colabs
 
-### Pandas & Numpy
-#### Dataset
-* Demographic Statistics By Zip Code: City of New York — Demographic statistics broken down by zip code
-    * Link: https://catalog.data.gov/dataset/demographic-statistics-by-zip-code-acfc9
-    * Source: data.cityofnewyork.us
-
 
 ### Intermediate Python
 #### Wordlists sources for the Boggle challenge:
